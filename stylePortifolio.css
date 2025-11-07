@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0%;
+    background-color: #F4E3E3;
+}
+header{
+    padding: 50px;
+}
+
+nav > a{
+    text-decoration: none;
+    color: #3F4A39;
+    font-size: 25px;
+    margin: 25px;
+}
+
+#fotoInicio{
+    width: 300px;
+    height: 420px;
+    border-radius: 30px;
+}
+body {
+    margin: 0;
+    background-color: #F4E3E3;
+  }
+  
+section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    padding: 80px 0;
+}
+
+p{
+    font-size: 1.3rem;
+    width: 650px;
+}
+  
+
+.PartesVerdes {
+    display: flex;
+    align-items: center;      
+    justify-content: center;  
+    background-color: #8a9b84;
+    padding: 40px;
+    border-radius: 15px;
+    width: 70%;
+    margin: 40px auto;
+    gap: 60px;                
+  }
+  
+  .texto {
+    color: white;
+    text-align: left;       
+    font-family: "Georgia", serif;
+  }
+  
+  .foto {
+    width: 500px;
+    height: 650px;
+    object-fit: cover;
+    border-radius: 20px;
+    align-self: center;
+    margin-left: 40px;        
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  li {
+    font-size: 1.3rem;
+  }
+  
