@@ -74,3 +74,10 @@ a > img {
 div p {   
     background-color: rgba(139, 0, 0, 0.1);
 }
+
+footer{
+    background-color: #500000;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
